@@ -1,9 +1,10 @@
-### Hi there, I'm Matt! 👋
+## Hi there, I'm Matt! 👋
 
 ## About me :adult:
-- Actively searching for a role as Software Engineer! 
-- Graduated with Neurobiology and Cognitive Science degrees from UC Berkeley! Go Bears! 
-- I enjoy cooking :hamburger:, hiking :hiking_boot:, and concerts:notes:!
+- Actively searching for a role as Software Engineer! 💻
+- Graduated with Neurobiology and Cognitive Science degrees from UC Berkeley! Go Bears! 🐻
+- Passionate about behavioral economics and machine learning 🧠
+- I enjoy cooking 🥘, basketball 🏀, boxing 🥊, biking 🚴‍♂️, and concerts 🎵. 
 
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
