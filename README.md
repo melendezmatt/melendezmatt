@@ -7,10 +7,8 @@
 - I enjoy cooking 🥘, basketball 🏀, boxing 🥊, biking 🚴‍♂️, and concerts 🎵. 
 
 # Connect with me 🧑‍🤝‍🧑
-- LinkedIn: 
-- Angellist: 
-- Twitter: 
-- Instagram: 
+- LinkedIn: https://www.linkedin.com/in/matthew-melendez/
+- Angellist: https://angel.co/u/matthew-melendez-1
 
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
