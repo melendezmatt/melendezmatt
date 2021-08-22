@@ -20,6 +20,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=melendezmatt&layout=compact
 <!--
 **melendezmatt/melendezmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
