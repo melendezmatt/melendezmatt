@@ -22,6 +22,11 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+## Github Statistics: 
+![GithubStats](https://github-readme-stats.vercel.app/api?username=melendezmatt&show_icons=true&theme=radical)
+
+
+## Code Breakdown: 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=melendezmatt&layout=compact)
 <!--
 **melendezmatt/melendezmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
