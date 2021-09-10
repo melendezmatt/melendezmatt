@@ -9,6 +9,7 @@
 # Connect with me 🧑‍🤝‍🧑
 - LinkedIn: https://www.linkedin.com/in/matthew-melendez/
 - Angellist: https://angel.co/u/matthew-melendez-1
+- Portfolio: https://melendezmatt.github.io/
 
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
