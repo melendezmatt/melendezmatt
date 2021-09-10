@@ -1,5 +1,4 @@
-## Hi there, I'm Matt! 👋
-### 😄 Pronouns: he/him/his
+## Hi there, I'm Matt! My preferred gender pronouns are he/him/his. 👋
 
 ## About me :adult:
 - Actively searching for a role as Software Engineer! 💻
