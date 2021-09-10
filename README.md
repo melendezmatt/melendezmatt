@@ -1,10 +1,11 @@
-## Hi there, I'm Matt! My preferred gender pronouns are he/him/his. 👋
+## Hi there, I'm Matt! 👋
 
 ## About me :adult:
+- My preferred gender pronouns are he/him/his. 😄
 - Actively searching for a role as Software Engineer! 💻
 - Graduated with Neurobiology and Cognitive Science degrees from UC Berkeley! Go Bears! 🐻
-- Passionate about behavioral economics and machine learning 🧠
-- I enjoy cooking 🥘, basketball 🏀, boxing 🥊, biking 🚴‍♂️, and concerts 🎵. 
+- Passionate about behavioral economics and machine learning. 🧠
+- I enjoy cooking 🥘, basketball 🏀, boxing 🥊, biking 🚴‍♂️, and concerts. 🎵. 
 
 # Connect with me 🧑‍🤝‍🧑
 - LinkedIn: https://www.linkedin.com/in/matthew-melendez/
