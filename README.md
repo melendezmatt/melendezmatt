@@ -1,4 +1,5 @@
 ## Hi there, I'm Matt! 👋
+- Currently working on an application to display accurate baseball metrics! ⚾
 
 ## About me :adult:
 - My preferred gender pronouns are he/him/his. 😄
