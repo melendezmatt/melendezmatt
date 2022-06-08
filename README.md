@@ -3,7 +3,7 @@
 
 ## About me :adult:
 - My preferred gender pronouns are he/him/his. 😄
-- Actively searching for a role as Software Engineer! 💻
+- Current a Software Engineer at AmeriSave Mortgage Corporation! 💻
 - Graduated with Neurobiology and Cognitive Science degrees from UC Berkeley! Go Bears! 🐻
 - Passionate about behavioral economics and machine learning. 🧠
 - I enjoy cooking 🥘, basketball 🏀, boxing 🥊, biking 🚴‍♂️, and concerts. 🎵. 
