@@ -1,5 +1,6 @@
 ## Hi there, I'm Matt! 👋
 - Currently working on an application to display accurate baseball metrics using Machine Learning! ⚾
+- Teaching myself the basics of ThreeJS and Solidity 🌱 
 
 ## About me :adult:
 - My preferred gender pronouns are he/him/his. 😄
